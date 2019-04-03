@@ -1,0 +1,3 @@
+13	mark	32	m@mail.ru	89256778899	programmer
+14	kan	20	k@mail.ru	89153776767	manager
+15	neo	76	n@mail.ru	89254447766	decorator
